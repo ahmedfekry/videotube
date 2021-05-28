@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <div>
         <div id="preloader"></div>
-        {/* <Nav /> */}
+        <Nav />
         <MainContent />
       </div>
     </BrowserRouter>
